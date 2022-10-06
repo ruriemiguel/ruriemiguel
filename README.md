@@ -4,6 +4,7 @@
 - 💞️ Estou procurando oportunidades de me incluir no mercado de trabalho...
 - 📫 Você pode me encontrar no LinkedIN, neste link: https://www.linkedin.com/in/ruriemiguel/
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!---
 ruriemiguel/ruriemiguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
