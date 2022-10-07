@@ -1,5 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruriemiguel&label=Profile%20views&color=0e75b6&style=flat" alt="ruriemiguel" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruriemiguel&label=Profile%20views&color=0e75b6&style=flat" alt="ruriemiguel" />
+<img alt="Rurie-logo" src="https://i.imgur.com/FGh9Pur.gif" />
+</p>
+ 
 ##
 
 <div align="center">
