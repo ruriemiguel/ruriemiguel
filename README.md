@@ -27,8 +27,8 @@
 
 ##
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel" alt="ruriemiguel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel&theme=onedark&no-bg=true&border_radius=50" alt="ruriemiguel" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruriemiguel&theme=dark&border_radius=50&background=0D1016&date_format=j%20M%5B%20Y%5D" alt="ruriemiguel" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruriemiguel&" alt="ruriemiguel" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruriemiguel&theme=dark&hide_border=true&border_radius=50)](https://git.io/streak-stats)
