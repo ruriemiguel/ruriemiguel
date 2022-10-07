@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruriemiguel&label=Profile%20views&color=0e75b6&style=flat" alt="ruriemiguel" />
 <img alt="Rurie-logo" src="https://i.imgur.com/FGh9Pur.gif" />
 </p>
- 
+
 ##
 
 <div align="center">
-<img alt="Rurie-logo" src="https://i.imgur.com/kcLsBEe.gif" />
+<img alt="Rurie-logo" src="https://i.imgur.com/emamkyV.png" />
 </div>
 
 ##
