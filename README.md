@@ -1,8 +1,7 @@
 <div display="flex" flex-direction="row">
 <img src="https://komarev.com/ghpvc/?username=ruriemiguel&label=Profile%20views&color=0e75b6&style=flat" alt="ruriemiguel" />
 <img alt="Rurie-logo" src="https://i.imgur.com/FGh9Pur.gif" />
-
-<img align="right" alt="Rurie-logo" src="https://i.imgur.com/l2TSm2V.gif" />
+<img align="right" src="https://i.imgur.com/l2TSm2V.gif" alt="Uma imagem impressionante">
 </div>
 
 ##
