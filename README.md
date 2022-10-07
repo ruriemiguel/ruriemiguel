@@ -7,7 +7,9 @@
 ##
 
 <div align="center">
+<img alt="Rurie-logo" src="https://i.imgur.com/OiT3rba.gif" />
 <img alt="Rurie-logo" src="https://i.imgur.com/emamkyV.png" />
+<img alt="Rurie-logo" src="https://i.imgur.com/OiT3rba.gif" />
 </div>
 
 ##
@@ -24,6 +26,7 @@
 ##
 
 <p align="center">
+  <img alt="Rurie-logo" src="https://i.imgur.com/spawcFo.gif" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
               width="70" height="70" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank" rel="noreferrer">
@@ -42,6 +45,7 @@
             rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
               alt="typescript" width="70" height="70" /> </a>
+<img alt="Rurie-logo" src="https://i.imgur.com/TI1vFod.gif" />
 </p>
 
 ##
@@ -49,7 +53,14 @@
 ![Snake animation](https://github.com/ruriemiguel/ruriemiguel/blob/output/github-contribution-grid-snake.svg)
 
 ##
+<p align="center">
+<img alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel&theme=onedark&no-bg=true&border_radius=50" alt="ruriemiguel" /></a>
+<img alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel&theme=onedark&no-bg=true&border_radius=50" alt="ruriemiguel" /></a> </p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruriemiguel&theme=dark&border_radius=50&background=0D1016&date_format=j%20M%5B%20Y%5D" alt="ruriemiguel" /></p>
+<div align="center" align-items="center">
+<img alt="Rurie-logo" src="https://i.imgur.com/1bceGhZ.gif" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ruriemiguel&theme=dark&border_radius=50&background=0D1016&date_format=j%20M%5B%20Y%5D" alt="ruriemiguel" />
+<img alt="Rurie-logo" src="https://i.imgur.com/1bceGhZ.gif" />
+</div>
