@@ -33,7 +33,7 @@
 ##
 
 <p align="center">
-  <img height="70" alt="Rurie-logo" src="https://i.imgur.com/spawcFo.gif" />
+  <img height="75" alt="Rurie-logo" src="https://i.imgur.com/spawcFo.gif" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
               width="70" height="70" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@
             rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
               alt="typescript" width="70" height="70" /> </a>
-<img height="70" alt="Rurie-logo" src="https://i.imgur.com/TI1vFod.gif" />
+<img height="75" alt="Rurie-logo" src="https://i.imgur.com/TI1vFod.gif" />
 </p>
 
 ##
@@ -61,9 +61,9 @@
 
 ##
 <p align="center">
-<img height="70" alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
+<img height="75" alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel&theme=onedark&no-bg=true&border_radius=50" alt="ruriemiguel" /></a>
-<img height="70" alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
+<img height="75" alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
 </p>
 
 <div align="center">
