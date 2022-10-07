@@ -13,13 +13,6 @@
 <a href="https://www.linkedin.com/in/ruriemiguel/"><img align="center" alt="" src="https://i.imgur.com/Plm847R.gif"></a>
 </div>
 
-<div style="display: inline_block">
-
-<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-</div>
-
 ![Snake animation](https://github.com/ruriemiguel/ruriemiguel/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel" alt="ruriemiguel" /></a> </p>
