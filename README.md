@@ -10,7 +10,7 @@
 <img alt="Rurie-logo" src="https://i.imgur.com/pgEs9Zx.gif" /> - Estou treinando no momento, tecnologias como Java, MySQL, SpringBoot, JS, React entre outras utilizadas no Full Stack Development! <br>
 <img alt="Rurie-logo" src="https://i.imgur.com/MCCwmO1.gif" /> - Estou procurando oportunidades de me incluir no mercado de trabalho! <br>
 <img alt="Rurie-logo" src="https://i.imgur.com/pDeEUJX.gif" /> - Você pode me encontrar no LinkedIN, neste link: https://www.linkedin.com/in/ruriemiguel/ <br>
-<a href="https://imgur.com/Plm847R" target="_blank"><img src="https://i.imgur.com/Plm847R.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Plm847R"><img src="https://i.imgur.com/Plm847R.gif" target="_blank" title="source: imgur.com" /></a>
 </div>
 
 ![Snake animation](https://github.com/ruriemiguel/ruriemiguel/blob/output/github-contribution-grid-snake.svg)
