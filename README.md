@@ -4,13 +4,20 @@
 <img alt="Rurie-logo" src="https://i.imgur.com/kcLsBEe.gif" />
 </div>
 
-<div align="center">
+<div style="display: inline_block" align="center">
 <img alt="Rurie-logo" src="https://i.imgur.com/pDeEUJX.gif" /> - Olá!, Eu sou o Ruriê Miguel Pacheco! <br>
 <img alt="Rurie-logo" src="https://i.imgur.com/drATD6T.gif" /> - Estou interessado nas áreas de Desenvolvimento em Tecnologia como Dev Full Stack. <br>
 <img alt="Rurie-logo" src="https://i.imgur.com/pgEs9Zx.gif" /> - Estou treinando no momento, tecnologias como Java, MySQL, SpringBoot, JS, React entre outras utilizadas no Full Stack Development! <br>
 <img alt="Rurie-logo" src="https://i.imgur.com/MCCwmO1.gif" /> - Estou procurando oportunidades de me incluir no mercado de trabalho! <br>
-<img alt="Rurie-logo" src="https://i.imgur.com/pDeEUJX.gif" /> - Você pode me encontrar no LinkedIN, neste link: https://www.linkedin.com/in/ruriemiguel/ <br>
-<a href="https://imgur.com/Plm847R"><img src="https://i.imgur.com/Plm847R.gif" target="_blank" title="source: imgur.com" /></a>
+<img alt="Rurie-logo" src="https://i.imgur.com/pDeEUJX.gif" /> - Você pode me encontrar no LinkedIN, neste
+<a href="https://www.linkedin.com/in/ruriemiguel/"><img align="center" alt="" src="https://i.imgur.com/Plm847R.gif"></a>
+</div>
+
+<div style="display: inline_block">
+
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 
 ![Snake animation](https://github.com/ruriemiguel/ruriemiguel/blob/output/github-contribution-grid-snake.svg)
