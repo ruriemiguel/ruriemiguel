@@ -62,7 +62,7 @@
 ##
 <p align="center">
 <img height="75" alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruriemiguel&theme=onedark&no-bg=true&border_radius=50" alt="ruriemiguel" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjfaccipieri&theme=onedark&no-bg=true&border_radius=50" alt="ruriemiguel" /></a>
 <img height="75" alt="Rurie-logo" src="https://i.imgur.com/x5Tarba.gif" />
 </p>
 
