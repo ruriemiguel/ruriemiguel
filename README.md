@@ -68,7 +68,7 @@
 
 <div align="center">
 <img height="100" alt="Rurie-logo" src="https://i.imgur.com/1bceGhZ.gif" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelq80&theme=dark&border_radius=50&background=0D1016&date_format=j%20M%5B%20Y%5D" alt="ruriemiguel" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ruriemiguel&theme=dark&border_radius=50&background=0D1016&date_format=j%20M%5B%20Y%5D" alt="ruriemiguel" />
 <img height="100" alt="Rurie-logo" src="https://i.imgur.com/1bceGhZ.gif" />
 </div>
 
